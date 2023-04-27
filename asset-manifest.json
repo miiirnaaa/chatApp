@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chatapp/static/css/main.844cff21.css",
-    "main.js": "/chatapp/static/js/main.5761126b.js",
+    "main.js": "/chatapp/static/js/main.cf85a13f.js",
     "static/media/design.jpg": "/chatapp/static/media/design.1fc261d2ee5ee7e39325.jpg",
     "static/media/back.jpg": "/chatapp/static/media/back.0b83ba18f2d42d1d697d.jpg",
     "static/media/Chat.png": "/chatapp/static/media/Chat.aa0cd716ee65457fbfdb.png",
@@ -10,10 +10,10 @@
     "static/media/tweet.png": "/chatapp/static/media/tweet.8e65601e69067aadfe55.png",
     "index.html": "/chatapp/index.html",
     "main.844cff21.css.map": "/chatapp/static/css/main.844cff21.css.map",
-    "main.5761126b.js.map": "/chatapp/static/js/main.5761126b.js.map"
+    "main.cf85a13f.js.map": "/chatapp/static/js/main.cf85a13f.js.map"
   },
   "entrypoints": [
     "static/css/main.844cff21.css",
-    "static/js/main.5761126b.js"
+    "static/js/main.cf85a13f.js"
   ]
 }
