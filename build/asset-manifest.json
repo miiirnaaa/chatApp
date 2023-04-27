@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8c3f77a4.css",
+    "main.js": "./static/js/main.6252fb20.js",
+    "static/media/design.jpg": "./static/media/design.1fc261d2ee5ee7e39325.jpg",
+    "static/media/back.jpg": "./static/media/back.0b83ba18f2d42d1d697d.jpg",
+    "static/media/Chat.png": "./static/media/Chat.aa0cd716ee65457fbfdb.png",
+    "static/media/video.png": "./static/media/video.5500e1899d537aecc8b5.png",
+    "static/media/dodaj.png.png": "./static/media/dodaj.png.327bbdbd02e938aea997.png",
+    "static/media/tweet.png": "./static/media/tweet.8e65601e69067aadfe55.png",
+    "index.html": "./index.html",
+    "main.8c3f77a4.css.map": "./static/css/main.8c3f77a4.css.map",
+    "main.6252fb20.js.map": "./static/js/main.6252fb20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3f77a4.css",
+    "static/js/main.6252fb20.js"
+  ]
+}
