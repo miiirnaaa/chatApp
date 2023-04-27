@@ -1,6 +1,6 @@
 {
-  "homepage": "./",
-  "name": "firebase-chatapp",
+  "homepage": "http://miiirnaaa.github.io/chatapp",
+  "name": "chatapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
